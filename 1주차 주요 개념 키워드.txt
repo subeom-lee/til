@@ -1,0 +1,18 @@
+git : 버전관리 프로그램
+
+git 초기화 : 컴퓨터에있는 프로젝트를 .git화 해주는것
+
+commit : 현재 상태 저장
+
+repository : git으로 관리되는 프로젝트
+
+tracking : 로컬 repo를 원격 repo에 연동하는것
+
+clone : 원격 repo를 로컬 repo에 가져오는것 (초기에사용)
+
+push : 로컬commit내용을 원격 commit
+
+pull : 원격commit내용을 로컬에 commit
+
+pull -> commit -> push
+(사이트에 있는 내용을 가지고와서 내 pc에서 commit하고 다시 사이트에 올린다)
